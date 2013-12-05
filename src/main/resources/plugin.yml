@@ -1,0 +1,5 @@
+name: ${project.name}
+main: com.gmail.fthielisch.tenjava.Plugin
+version: ${project.version}
+author: finalfred
+description: TEMPLATE <DESCRIPTION>
