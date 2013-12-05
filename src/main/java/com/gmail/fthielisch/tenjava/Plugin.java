@@ -1,4 +1,4 @@
-
+package com.gmail.fthielisch.tenjava;
 
 public class Plugin {
     
